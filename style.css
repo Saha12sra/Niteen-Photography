@@ -1,0 +1,47 @@
+body {
+    background-color: #b8f2ef;
+    text-align: center;
+}
+
+#mainheader {
+    color: #0aa39b;
+}
+
+#img_1 {
+    height: 200px;
+    width: 300px;
+    margin: 20px;
+}
+
+#img_2 {
+    height: 200px;
+    width: 300px;
+    margin: 20px;
+}
+
+#img_3 {
+    height: 200px;
+    width: 300px;
+    margin-right: 100px;
+    margin-bottom: 20px;
+}
+
+#img_4 {
+    height: 250px;
+    width: 150px;
+    margin-bottom: 20px;
+    margin-right: 80px;
+
+}
+
+#img_5 {
+    height: 200px;
+    width: 300px;
+    margin: 20px;
+}
+
+#img_6 {
+    height: 200px;
+    width: 300px;
+    margin: 20px;
+}
